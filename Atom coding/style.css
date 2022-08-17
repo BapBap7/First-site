@@ -1,0 +1,44 @@
+.greetings {
+    font-family: italic;
+    font-size: 84px;
+    margin: 15px;
+    height: 200px;
+}
+
+.scroll {
+    color: aqua;
+}
+
+p {
+    text-align: center;
+  }
+
+.topnav {
+    background-color: #A66CFF;
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: left;
+    color: #ddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #9C9EFE;
+    color: black;
+}
+  
+.topnav a.active:hover {
+    background-color: #B1E1FF;
+    color: white;
+}
+
+.topnav a.active {
+    background-color: #AFB4FF;
+    color: white;
+}
+
